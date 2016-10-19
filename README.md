@@ -6,6 +6,5 @@ This Osu Skin is made with pieces from Cookiezi's old skin (SameSkinButNoHitCirc
 I plan on redoing most of this skin in a Ship of Theseus style (little by litle one piece at a time until the whole thing is different).
 
 Updates:
-Fish 1.2.2
 
-  Changed sliderpoints and object numbers to match score and combo numbers
+     Fish 1.2.2 - Changed sliderpoints and object numbers to match score and combo numbers
