@@ -1,5 +1,5 @@
 # OsuFish
-Osu Fish Skin (depreciated)
+Osu Fish Skin Final Version (will be released officially if all owners of the original files give the ok)
 
 I have started a new skin from scratch (not using any elements from existing skins) at OsuFishNew: https://github.com/mrlinuxfish/OsuFishNew
 
