@@ -14,5 +14,5 @@ I have started a new skin from scratch (not using any elements from existing ski
 # Fish Mix Skin #
 This skin is made using some of my own resources as well as components from y36, Haskorion, and xi9w
 
-## Updates ##
+## Updates: ##
 - Fish Mix v1 - Initial version
