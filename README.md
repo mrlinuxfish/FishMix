@@ -5,6 +5,10 @@ This skin is made using some of my own resources as well as components from y36,
 - Fish Mix v1 - Initial version
 - Fish Mix v1.1 - updated skin elements (now using a very slightly different color scheme which should be easier on the eyes)
 
+# Osu Fish New Project #
+This project is my attempt to make an osu skin from scratch
+
+[Link to the project](https://github.com/mrlinuxfish/OsuFishNew)
 
 # Fish Skin (the first skin I made) #
 Osu Fish Skin Final Version (will be released officially if all owners of the original files give the ok)
