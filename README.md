@@ -1,9 +1,10 @@
 # Fish Mix Skin #
-This skin is made using some of my own resources as well as components from [y36](https://osu.ppy.sh/u/y36), [Haskorion](https://osu.ppy.sh/u/haskorion), [xi9w](https://osu.ppy.sh/u/xi9w), and [charuri](https://osu.ppy.sh/u/charuri).
+This skin is made using some of my own resources as well as components from [y36](https://osu.ppy.sh/u/y36), [Haskorion](https://osu.ppy.sh/u/haskorion), [xi9w](https://osu.ppy.sh/u/xi9w), [MeowPaz](https://osu.ppy.sh/u/meowpaz), and [charuri](https://osu.ppy.sh/u/charuri).
 
 ## Updates: ##
 - Fish Mix v1 - Initial version
 - Fish Mix v1.1 - updated skin elements (now using a very slightly different color scheme which should be easier on the eyes)
+- Fish Mix v1.2 - I am now using skin elements from the O2Jam U Ultimate skin for mania
 
 # Osu Fish New Project #
 This project is my attempt to make an osu skin from scratch
