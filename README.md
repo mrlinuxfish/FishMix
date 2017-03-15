@@ -3,8 +3,9 @@ This skin is made using some of my own resources as well as components from [y36
 
 ## Updates: ##
 - Fish Mix v1 - Initial version
-- Fish Mix v1.1 - updated skin elements (now using a very slightly different color scheme which should be easier on the eyes)
-- Fish Mix v1.2 - I am now using skin elements from the O2Jam U Ultimate skin for mania
+- Fish Mix v1.1 - Update skin elements (using a very slightly different color scheme which should be easier on the eyes)
+- Fish Mix v1.2 - Use skin elements from the O2Jam U Ultimate skin for mania.
+- Fish Mix v1.3 - Hit elements are darker so Kiai time is less distracting.
 
 # Osu Fish New Project #
 This project is my attempt to make an osu skin from scratch
