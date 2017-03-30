@@ -6,13 +6,14 @@ This skin is made using some of my own resources as well as components from [y36
 - Fish Mix v1.1 - Update skin elements (using a very slightly different color scheme which should be easier on the eyes)
 - Fish Mix v1.2 - Use skin elements from the O2Jam U Ultimate skin for mania.
 - Fish Mix v1.3 - Hit elements are darker so Kiai time is less distracting.
+- Fish Mix v2 - Completely new style for standard. Uses new score letters and new hit indicators. Sliders and circles are different colors.
 
 # Osu Fish New Project #
 This project is my attempt to make an osu skin from scratch
 
 [Link to the project](https://github.com/mrlinuxfish/OsuFishNew)
 
-# Fish Skin (the first skin I made) #
+# Fish Skin, the first skin I made (depreciated) #
 Osu Fish Skin Final Version (will be released officially if all owners of the original files give the ok)
 
 This Osu Skin is made with pieces from Cookiezi's old skin (SameSkinButNoHitCirclesWierdName) as well as the charui_skin_1_2, Brighter-Lights, and various elements from http://osuskinner.com/
