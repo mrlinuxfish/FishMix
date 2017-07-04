@@ -14,7 +14,7 @@ This project is my attempt to make an osu skin from scratch
 
 [Link to the project](https://github.com/mrlinuxfish/OsuFishNew)
 
-# Fish Skin, the first skin I made (depreciated) #
+# Fish Skin, the first skin I made (deprecated) #
 Osu Fish Skin Final Version (will be released officially if all owners of the original files give the ok)
 
 This Osu Skin is made with pieces from Cookiezi's old skin (SameSkinButNoHitCirclesWierdName) as well as the charui_skin_1_2, Brighter-Lights, and various elements from http://osuskinner.com/
