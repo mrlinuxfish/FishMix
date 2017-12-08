@@ -8,6 +8,8 @@ This skin is made using some of my own resources as well as components from [y36
 - Fish Mix v1.3 - Hit elements are darker so Kiai time is less distracting.
 - Fish Mix v2 - Completely new style for standard. Uses new score letters and new hit indicators. Sliders and circles are different colors.
 - Fish Mix v2.1 - New mod icons
+- Fish Mix v2.2 - Fix approach circle on low resolution
+- Fish Mix v2.3 - Change default cursor color
 
 # Osu Fish New Project #
 This project is my attempt to make an osu skin from scratch
