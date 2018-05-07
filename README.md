@@ -11,6 +11,7 @@ This skin is made using some of my own resources as well as components from [y36
 - Fish Mix v2.2 - Fix approach circle on low resolution
 - Fish Mix v2.3 - Change default cursor color
 - Fish Mix v2.4 - Add spinner assets, fix approach circles, make the cursor nicer, and change the color scheme
+- Fish-Ameliorate - This is a new skin I found and have since modified to be slightly better. It is a lot easier to read than the old skin. I will create new assets for the Fish-Skin to make it more similar to this skin.
 
 # Osu Fish New Project #
 This project is my attempt to make an osu skin from scratch
